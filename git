@@ -13,3 +13,7 @@ git push origin main
 git remote remove origin 
 
 new test with commentary 
+
+git branch -m 
+git commit --amend -m "Novo comentário"
+git push origin main --force    
