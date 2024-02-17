@@ -1,0 +1,11 @@
+git init                                        -> iniciar um repositorio git vazio // cria uma pasta .git 
+git add .                                       -> adicionar tudo que estiver na pasta 
+git config --global user.email "you@example.com"
+git config --global user.name  "Your Name"
+git commit -m "Primeiro arquivo do repositório" -> leva as mudanças de um ambiente local para o repositório no git, permitindo ainda a inserção de uma mensagem descritiva
+git status                                      -> exibe as condições do diretório de trabalho e da área de staging
+git log -n 10                                   -> exibe o histórico das últimas "n" alterações
+git remote add origin                           -> linka ao repositório online
+
+git push -u origin main
+git push origin main
