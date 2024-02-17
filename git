@@ -9,3 +9,5 @@ git remote add origin                           -> linka ao repositório online
 
 git push -u origin main
 git push origin main
+
+git remote remove origin 
