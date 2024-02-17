@@ -15,5 +15,22 @@ git remote remove origin
 new test with commentary 
 
 git branch -m 
+
+Não aconselhável fazer:
 git commit --amend -m "Novo comentário"
 git push origin main --force    
+
+
+
+Cria uma nova branch:
+git checkout -b nomeDaNovaBranch
+
+Trocar de branch
+git checkout nomeDaBranch
+
+git add . -> para todos os arquivos
+git add nomeDoArquivo -> somente para os arquivos selecionados
+
+
+merge =-> aprovar um pull request de uma branch terceira para a main
+
