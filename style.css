@@ -1,0 +1,31 @@
+.header{
+    background-color: #4942E4;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.menuNav{
+    display: flex;
+    justify-content: end;    
+}
+
+.section{
+    margin-top: 10px;
+    display: flex;
+}
+
+.section-1{
+    margin-right: 5px;
+    border-radius: 10px;
+    background-color: black;
+    width: 50%;
+    height: 60vh;
+
+}
+.section-2{
+    margin-right: 5px;
+    border-radius: 10px;
+    background-color: red;
+    width: 50%;
+    height: 60vh;
+}
