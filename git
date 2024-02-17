@@ -23,8 +23,6 @@ git push origin main --force
 Para salvar o projeto na máquina
 git clone linkDoGit
 
-
-
 Cria uma nova branch:
 git checkout -b nomeDaNovaBranch
 
