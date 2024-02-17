@@ -20,6 +20,9 @@ Não aconselhável fazer:
 git commit --amend -m "Novo comentário"
 git push origin main --force    
 
+Para salvar o projeto na máquina
+git clone linkDoGit
+
 
 
 Cria uma nova branch:
